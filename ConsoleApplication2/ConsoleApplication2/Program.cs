@@ -10,6 +10,7 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
             Console.WriteLine("Hello, this is the 2nd windows");
             Console.Read();
         }
