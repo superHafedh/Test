@@ -1,0 +1,6 @@
+C:\Users\Hafedh\Documents\SouthApps GitHub\Test\SA.HAFEDH.TR11\SA.HAFEDH.TR11\bin\Debug\SA.HAFEDH.TR11.exe.config
+C:\Users\Hafedh\Documents\SouthApps GitHub\Test\SA.HAFEDH.TR11\SA.HAFEDH.TR11\bin\Debug\SA.HAFEDH.TR11.exe
+C:\Users\Hafedh\Documents\SouthApps GitHub\Test\SA.HAFEDH.TR11\SA.HAFEDH.TR11\bin\Debug\SA.HAFEDH.TR11.pdb
+C:\Users\Hafedh\Documents\SouthApps GitHub\Test\SA.HAFEDH.TR11\SA.HAFEDH.TR11\obj\Debug\SA.HAFEDH.TR11.csprojResolveAssemblyReference.cache
+C:\Users\Hafedh\Documents\SouthApps GitHub\Test\SA.HAFEDH.TR11\SA.HAFEDH.TR11\obj\Debug\SA.HAFEDH.TR11.exe
+C:\Users\Hafedh\Documents\SouthApps GitHub\Test\SA.HAFEDH.TR11\SA.HAFEDH.TR11\obj\Debug\SA.HAFEDH.TR11.pdb

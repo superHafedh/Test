@@ -1,0 +1,5 @@
+C:\Users\Hafedh\Documents\SouthApps GitHub\Test\SA.Hafedh.TR12\SA.Hafedh.TR12\bin\Debug\SA.Hafedh.TR12.exe.config
+C:\Users\Hafedh\Documents\SouthApps GitHub\Test\SA.Hafedh.TR12\SA.Hafedh.TR12\bin\Debug\SA.Hafedh.TR12.exe
+C:\Users\Hafedh\Documents\SouthApps GitHub\Test\SA.Hafedh.TR12\SA.Hafedh.TR12\bin\Debug\SA.Hafedh.TR12.pdb
+C:\Users\Hafedh\Documents\SouthApps GitHub\Test\SA.Hafedh.TR12\SA.Hafedh.TR12\obj\Debug\SA.Hafedh.TR12.exe
+C:\Users\Hafedh\Documents\SouthApps GitHub\Test\SA.Hafedh.TR12\SA.Hafedh.TR12\obj\Debug\SA.Hafedh.TR12.pdb
